@@ -5,7 +5,7 @@ class search extends Component {
         return(
             <div>
                 <h1>
-                    This is a research Page
+                    This is a search Page
                 </h1>
             </div>
         )

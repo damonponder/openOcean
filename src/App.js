@@ -6,7 +6,10 @@ import Home from './pages/home/home'
 import Explore from './pages/explore/explore'
 import search from './pages/search/search'
 import researchPage from "./pages/researchPage/reasearchPage";
-
+import Query from './pages/query/query'
+import Visualize from "./pages/visualize/visualize";
+import Analyze from "./pages/analyze/analyze";
+import Configure from "./pages/configure/configure";
 
 class App extends Component{
   render() {
@@ -18,6 +21,10 @@ class App extends Component{
                 <Route path="/" component={Home} exact/>
                 <Route path="/explore" component={Explore} exact/>
                 <Route path="/search" component={search} exact/>
+                <Route path="/query" component={Query} exact/>
+                <Route path="/visualize" component={Visualize} exact/>
+                <Route path="/analyze" component={Analyze} exact/>
+                <Route path="/configure" component={Configure} exact/>
                 <Route path="/research" component={researchPage} exact/>
             </Switch>
           </div>
