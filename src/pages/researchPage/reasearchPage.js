@@ -1,14 +1,14 @@
-import React, {Component} from 'react';
+import React, { Component } from "react";
+import data from '../../data/data'
 
-class researchPage extends Component{
-    render() {
-        return(
-            <div id="research-main-body">
-                <h1>
-                    This is the Research Page
-                </h1>
-            </div>
-        )
-    }
-}
-export default researchPage
+
+const researchPage = ({data}) => {
+
+    <div>
+    <li>
+        <p>{item._index}</p>
+    </li>
+    </div>
+};
+
+export default researchPage();
