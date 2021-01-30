@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import {Link} from 'react-router-dom'
-import nasaLogo from '../../assets/favicon.ico'
+import nasaLogo from '../../../assets/favicon.ico'
+import MenuContainer from '../menuContainer/menuContainer'
 import './navbar.style.scss'
 
 class Navbar extends Component {

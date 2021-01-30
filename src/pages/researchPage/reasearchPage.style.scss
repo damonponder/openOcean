@@ -23,13 +23,17 @@
 .card {
   border: 2px solid #ccc;
   text-align: center;
-  width: 1200px;
+  width: 1300px;
   height: 300px;
+  border-radius: 20px;
 
 }
 .card-header {
   background-color: #3498DB;
-  font-size: 30px;
+  font-size: 40px;
+  text-align: right;
+  border-radius: 20px 20px 0 0;
+  height: 50px;
 }
 .collapse {
 

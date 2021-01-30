@@ -4,7 +4,7 @@ import { PersistGate } from 'redux-persist/integration/react'
 import{ Provider } from 'react-redux';
 import { store, persistor } from './Redux/store'
 import './App.css';
-import Navbar from "./components/menu/navbar";
+import Navbar from "./components/menu/navBar/navbar";
 import Home from './pages/home/home'
 import Explore from './pages/explore/explore'
 import search from './pages/search/search'
@@ -13,6 +13,8 @@ import Query from './pages/query/query'
 import Visualize from "./pages/visualize/visualize";
 import Analyze from "./pages/analyze/analyze";
 import Configure from "./pages/configure/configure";
+
+
 
 
 class App extends Component{
