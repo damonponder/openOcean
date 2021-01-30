@@ -1,3 +1,36 @@
 #research-main-body{
   border-top: 2px solid #ccc;
 }
+
+.query-div {
+  text-align: center;
+  border: 2px solid black;
+}
+.page-title {
+  display: flex;
+  margin-left: 1000px;
+  text-align: center;
+}
+.query-div {
+  max-width: 50%;
+}
+.accordion {
+  display: flex;
+  justify-content: center;
+  margin-left: 350px;
+  height: 330px;
+}
+.card {
+  border: 2px solid #ccc;
+  text-align: center;
+  width: 1200px;
+  height: 300px;
+
+}
+.card-header {
+  background-color: #3498DB;
+  font-size: 30px;
+}
+.collapse {
+
+}

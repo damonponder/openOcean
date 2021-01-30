@@ -1,7 +1,7 @@
 #nav {
   //position: relative;
   //z-index: 220;
-  margin-top: 15px;
+  margin-top: 0px;
   //margin-left: auto;
   //margin-right: auto;
   //padding: 0 15px 13px 5px;
@@ -14,21 +14,34 @@
 #nav li a {
   font-family: Arial, "Free Sans";
   font-weight: bold;
-  font-size: 1.25em;
-  color: #0173ae;
+  font-size: 1.35em;
+  color: #34495E;
   text-decoration: none;
   //padding: 0.8em 1.3em;
   letter-spacing: 0.5px;
   /* text-shadow: 0 -1px 0 #000; */
   position: relative;
 }
+#nav a .logo-header-right{
+  margin-left: 50px;
+  padding: 5px 55px 5px 70px;
+}
 .nav-button {
   margin-top: 40px;
   margin-left: 100px;
 }
-.logo-header {
+.logo-header-left {
   margin: -3px 0 0 45px;
   padding: 5px 55px 5px 0;
   width: 80px;
-  border-right: 2px solid #ccc;
+}
+.logo-header-right {
+  //margin: -3px 0 0 55px;
+  //padding: 5px 55px 5px 0;
+  width: 80px;
+}
+li:hover {
+  background-color: #3498DB;
+  margin-bottom: 10px;
+  padding: 20px 20px 20px 20px;
 }

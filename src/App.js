@@ -1,5 +1,8 @@
 import React, {Component} from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
+import { PersistGate } from 'redux-persist/integration/react'
+import{ Provider } from 'react-redux';
+import { store, persistor } from './Redux/store'
 import './App.css';
 import Navbar from "./components/menu/navbar";
 import Home from './pages/home/home'
@@ -11,9 +14,12 @@ import Visualize from "./pages/visualize/visualize";
 import Analyze from "./pages/analyze/analyze";
 import Configure from "./pages/configure/configure";
 
+
 class App extends Component{
   render() {
     return(
+        <Provider store={ store }>
+            <PersistGate loading={null} persistor={persistor}>
         <BrowserRouter>
           <div>
             <Navbar/>
@@ -29,6 +35,8 @@ class App extends Component{
             </Switch>
           </div>
         </BrowserRouter>
+            </PersistGate>
+        </Provider>
     )
   }
 }

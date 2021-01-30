@@ -8,7 +8,7 @@ class Navbar extends Component {
         return(
             <React.Fragment>
                 <nav id='nav'>
-                    <a id='insight-home-anchor'><img src={nasaLogo} alt="nasa-main-logo" class='logo-header'/></a>
+                    <a id='insight-home-anchor-left'><img src={nasaLogo} alt="nasa-main-logo" class='logo-header-left'/></a>
                     <li className='nav-button' id="home-nav-button"><Link to="/">Home</Link></li>
                     <li className='nav-button' id="home-nav-button"><Link to="/explore">Explore</Link></li>
                     <li className='nav-button' id="home-nav-button"><Link to="/search">Search</Link></li>
@@ -17,8 +17,8 @@ class Navbar extends Component {
                     <li className='nav-button' id="home-nav-button"><Link to="/analyze">Analyze</Link></li>
                     <li className='nav-button' id="home-nav-button"><Link to="/configure">Configure</Link></li>
                     <li className='nav-button' id="home-nav-button"><Link to="/research">Research</Link></li>
-                    {/*<li><a href="#">Home</a></li>*/}
-                    </nav>
+                    <a id='insight-home-anchor-right'><img src={nasaLogo} alt="nasa-main-logo" className='logo-header-right'/></a>
+                </nav>
             </React.Fragment>
         )
     }
