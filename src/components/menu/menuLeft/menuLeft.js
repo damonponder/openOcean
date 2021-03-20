@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./menuLeft.Styles.scss";
+import "./menuLeft.styles.scss";
 
 export default class MenuLeft extends Component {
     render() {

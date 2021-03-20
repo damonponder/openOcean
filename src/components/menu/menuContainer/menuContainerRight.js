@@ -1,9 +1,9 @@
 import React from "react";
-import MenuLeft from "../menuLeft/menuLeft";
-import MenuButtonLeft from "../menuButton/menuButtonLeft";
+import MenuRight from "../menuRight/menuRight";
+import MenuButtonRight from "../menuButton/menuButtonRight";
 
 
-export default class MenuContainerLeft extends React.Component {
+export default class MenuContainerRight extends React.Component {
     constructor(props, context) {
         super(props, context);
 
@@ -33,8 +33,8 @@ export default class MenuContainerLeft extends React.Component {
     render() {
         return (
             <>
-                <MenuButtonLeft handleMouseDown={this.handleMouseDown}/>,
-                <MenuLeft handleMouseDown={this.handleMouseDown} menuVisibility={this.state.visible}/>
+                <MenuButtonRight handleMouseDown={this.handleMouseDown}/>,
+                <MenuRight handleMouseDown={this.handleMouseDown} menuVisibility={this.state.visible}/>
             </>
         );
     }

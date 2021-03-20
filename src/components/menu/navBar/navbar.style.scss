@@ -9,7 +9,9 @@
   //width: 85%;
   list-style-type: none;
   display: flex;
-  border-bottom: 2px solid #ccc;
+  justify-content: center;
+  margin-bottom: 10px;
+  //border-bottom: 2px solid #ccc;
 }
 #nav li a {
   font-family: Arial, "Free Sans";
@@ -29,6 +31,17 @@
 .nav-button {
   margin-top: 40px;
   margin-left: 100px;
+}
+.logo-header-pic {
+  height:80px;
+  width:110%;
+  margin:-10px;
+}
+.logo-header-div {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
 }
 .logo-header-left {
   margin: -3px 0 0 45px;

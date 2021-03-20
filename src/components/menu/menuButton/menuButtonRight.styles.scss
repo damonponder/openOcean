@@ -1,4 +1,4 @@
-#arrowButtonLeft {
+#arrowButtonRight {
   background-color: #96D9FF;
   margin-bottom: 20px;
   width: 50px;
@@ -9,18 +9,18 @@
   transition: all .2s cubic-bezier(0, 1.26, .8, 1.28);
 }
 
-#arrowButtonLeft:hover {
+#arrowButtonRight:hover {
   background-color: #96D9FF;
   cursor: pointer;
   //border-color: #003557;
   transform: scale(1.2, 1.2);
 }
 
-#arrowButtonLeft:active {
+#arrowButtonRight:active {
   //border-color: #003557;
   //background-color: #FFF;
 }
-#arrowButtonLeft {
+#arrowButtonRight {
   margin-top: 10px;
   margin-left: 10px;
 }

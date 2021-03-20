@@ -1,13 +1,10 @@
 import React, { Component } from "react";
-// import ReactDOM from "react-dom";
 import './reasearchPage.style.scss'
 import {Accordion, Card} from "react-bootstrap";
-import {Button} from "react-bootstrap";
 import { connect } from 'react-redux'
-// import { Card, Feed } from 'semantic-ui-react'
-import {fetchDataSuccess} from "../../Redux/actions/dataAction";
-import MenuContainer from "../../components/menu/menuContainer/menuContainer";
-
+import {fetchDataSuccess} from "../../Redux/actions/dataaction/dataAction";
+import MenuContainerRight from "../../components/menu/menuContainer/menuContainerRight";
+import MenuContainerLeft from "../../components/menu/menuContainer/menuContainerLeft";
 
 class ResearchPage extends Component {
     componentDidMount() {
@@ -20,10 +17,17 @@ class ResearchPage extends Component {
         return (
             <>
                 <div className='menuContainer'>
-                    <MenuContainer/>
+                    <MenuContainerRight className='menuContainerRight'/>
+                        <MenuContainerLeft className='menuContainerLeft'/>
+
                 </div>
+
                 <div>
-                    <h1 className='page-title'>Record MetaData</h1>
+                    <Accordion>
+                        <Card>
+                            <h1>This is a Comment</h1>
+                        </Card>
+                    </Accordion>
                 </div>
                 <div>
                 {data.map(({ id, _index, ContentTypeId, indexed}) => (

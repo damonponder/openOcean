@@ -1,0 +1,2693 @@
+﻿
+{
+
+    "hits": [
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000447",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/ContentType"
+                }
+            },
+            "LaunchNote": "Sep",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "7447286d-63d5-4e10-8568-9f17b06b8a56",
+            "__editor_id": "31",
+            "PortName": "MRM1 / FGB Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "9/2017",
+            "ID": "252",
+            "CrewSize": "3",
+            "Updated": "0",
+            "indexed": "2020-08-21T17:32:59.023Z",
+            "SyncStatus": "0",
+            "GUID": "7447286d-63d5-4e10-8568-9f17b06b8a56",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2017-09-27T19:19:53Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2020-09-27T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000447",
+            "__record_md5sum": "20e331373ebd906c0dd6be057d65d35d",
+            "__record_size_wo_doccontent": 25844,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "252",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/File"
+                }
+            },
+            "UndockDate": "2021-03-25T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2017-09-27T19:25:24Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/Folder"
+                }
+            },
+            "Created": "2017-09-27T19:19:53Z",
+            "__date_modified": "2017-09-27T19:25:24Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:59.023Z",
+            "Days": 179,
+            "__indexed": "2020-08-21T17:32:59.023Z",
+            "__metadata": {
+                "etag": "\"2\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)"
+            },
+            "__record_size": 25844,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "31",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.023Z",
+            "VehicleType": "Soyuz",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "62Soyuz",
+            "EditorId": "31",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(252)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "7447286d-63d5-4e10-8568-9f17b06b8a56",
+            "UndockNote": "Mar",
+            "FileSystemObjectType": "0",
+            "DockNote": "Sep",
+            "SingleCrewName1": "RS",
+            "SingleCrewName2": "RS",
+            "SingleCrewName3": "US",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "31",
+            "LaunchDate": "2020-09-27T05:00:00Z",
+            "__source_field_concat": "0 252 0x01004FF058EAF98B1B4D8390B53E6C866C17 62Soyuz Soyuz MRM1 / FGB Nadir 3 Sep Sep Mar RS RS US True True True 0 True True 252 31 31 1.0 false 7447286d-63d5-4e10-8568-9f17b06b8a56 62Soyuz Soyuz Sep Sep Mar 7447286d-63d5-4e10-8568-9f17b06b8a56 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179023
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000446",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "1d2c08db-fdd7-432b-b162-b46396f08d21",
+            "__editor_id": "14",
+            "PortName": "SM Aft",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "205",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.021Z",
+            "SyncStatus": "1",
+            "GUID": "1d2c08db-fdd7-432b-b162-b46396f08d21",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:12Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2018-10-13T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000446",
+            "__record_md5sum": "a9553253415f9cb8710dc39b4a096b7c",
+            "__record_size_wo_doccontent": 25214,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "205",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/File"
+                }
+            },
+            "UndockDate": "2019-02-04T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:25Z",
+            "LVText": "N°440",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:12Z",
+            "__date_modified": "2018-01-04T20:35:25Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:59.021Z",
+            "Days": 116,
+            "__indexed": "2020-08-21T17:32:59.021Z",
+            "__metadata": {
+                "etag": "\"7166\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)"
+            },
+            "__record_size": 25214,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.021Z",
+            "VehicleType": "Progress",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "71Progress",
+            "EditorId": "14",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(205)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "1d2c08db-fdd7-432b-b162-b46396f08d21",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "AltName": "MS-10",
+            "__author_id": "14",
+            "LaunchDate": "2018-10-11T05:00:00Z",
+            "__source_field_concat": "0 205 0x01004FF058EAF98B1B4D8390B53E6C866C17 71Progress Progress SM Aft MS-10 0 N°440 False False True 1 True True 205 14 14 1.0 false 1d2c08db-fdd7-432b-b162-b46396f08d21 71Progress Progress MS-10 N°440 1d2c08db-fdd7-432b-b162-b46396f08d21 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179021
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000445",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "74994998-66c3-4414-a340-50bdc298002e",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "171",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.018Z",
+            "ManifestNotes": "3-7",
+            "SyncStatus": "1",
+            "GUID": "74994998-66c3-4414-a340-50bdc298002e",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:07Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2017-02-23T06:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000445",
+            "__record_md5sum": "d2f7282b3989653c727c4a50b0e0eed1",
+            "__record_size_wo_doccontent": 25788,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "171",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/File"
+                }
+            },
+            "UndockDate": "2017-03-19T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:22Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:07Z",
+            "__date_modified": "2018-01-04T20:35:22Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:59.018Z",
+            "Days": 28,
+            "__indexed": "2020-08-21T17:32:59.018Z",
+            "__metadata": {
+                "etag": "\"7169\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)"
+            },
+            "__record_size": 25788,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.018Z",
+            "VehicleType": "SpX",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "SpX-10",
+            "EditorId": "14",
+            "Manifest": "SpX-10: STP-H5, SAGE IP, SAGE NVP",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(171)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "74994998-66c3-4414-a340-50bdc298002e",
+            "__manifest_notes": "3-7",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2017-02-19T06:00:00Z",
+            "__source_field_concat": "0 171 0x01004FF058EAF98B1B4D8390B53E6C866C17 SpX-10 SpX N2 Nadir SpX-10: STP-H5, SAGE IP, SAGE NVP 0 3-7 False False False 1 True True 171 14 14 1.0 false 74994998-66c3-4414-a340-50bdc298002e SpX-10 SpX SpX-10: STP-H5, SAGE IP, SAGE NVP 74994998-66c3-4414-a340-50bdc298002e 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179018
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000444",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "2bfc8e15-eee8-4304-bdf4-e3ab7ebb6f42",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "167",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.017Z",
+            "SyncStatus": "1",
+            "GUID": "2bfc8e15-eee8-4304-bdf4-e3ab7ebb6f42",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:07Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2015-01-12T06:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000444",
+            "__record_md5sum": "24f1d9c601220a325ec02b9b73d3bfff",
+            "__record_size_wo_doccontent": 24948,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "167",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/File"
+                }
+            },
+            "UndockDate": "2015-02-10T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:21Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:07Z",
+            "__date_modified": "2018-01-04T20:35:21Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:59.017Z",
+            "Days": 31,
+            "__indexed": "2020-08-21T17:32:59.017Z",
+            "__metadata": {
+                "etag": "\"7150\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)"
+            },
+            "__record_size": 24948,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.017Z",
+            "VehicleType": "SpX",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "SpX-5",
+            "EditorId": "14",
+            "Manifest": "SpX-5: CATS",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(167)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "2bfc8e15-eee8-4304-bdf4-e3ab7ebb6f42",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2015-01-10T06:00:00Z",
+            "__source_field_concat": "0 167 0x01004FF058EAF98B1B4D8390B53E6C866C17 SpX-5 SpX N2 Nadir SpX-5: CATS 0 False False False 1 True True 167 14 14 1.0 false 2bfc8e15-eee8-4304-bdf4-e3ab7ebb6f42 SpX-5 SpX SpX-5: CATS 2bfc8e15-eee8-4304-bdf4-e3ab7ebb6f42 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179017
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000443",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "57b89260-0759-47b8-a151-786addfca60d",
+            "__editor_id": "14",
+            "PortName": "N1 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "186",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.015Z",
+            "SyncStatus": "1",
+            "GUID": "57b89260-0759-47b8-a151-786addfca60d",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:10Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2016-10-23T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000443",
+            "__record_md5sum": "7be9961c783f2d55a60eb53956022d7e",
+            "__record_size_wo_doccontent": 24542,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "186",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/File"
+                }
+            },
+            "UndockDate": "2016-11-21T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:23Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:10Z",
+            "__date_modified": "2018-01-04T20:35:23Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:59.015Z",
+            "Days": 35,
+            "__indexed": "2020-08-21T17:32:59.015Z",
+            "__metadata": {
+                "etag": "\"7180\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)"
+            },
+            "__record_size": 24542,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.015Z",
+            "VehicleType": "Orb",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "OA-5",
+            "EditorId": "14",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(186)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "57b89260-0759-47b8-a151-786addfca60d",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2016-10-17T05:00:00Z",
+            "__source_field_concat": "0 186 0x01004FF058EAF98B1B4D8390B53E6C866C17 OA-5 Orb N1 Nadir 0 True True True 1 True True 186 14 14 1.0 false 57b89260-0759-47b8-a151-786addfca60d OA-5 Orb 57b89260-0759-47b8-a151-786addfca60d 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179015
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000442",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "c7d34aeb-a4f3-4944-b1ea-7aeefa8e5cbf",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "182",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.013Z",
+            "SyncStatus": "1",
+            "GUID": "c7d34aeb-a4f3-4944-b1ea-7aeefa8e5cbf",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:09Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2014-01-12T06:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000442",
+            "__record_md5sum": "adadbc6c01d9a59edd97ded3b0220139",
+            "__record_size_wo_doccontent": 24605,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "182",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/File"
+                }
+            },
+            "UndockDate": "2014-02-18T07:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:23Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:09Z",
+            "__date_modified": "2018-01-04T20:35:23Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:59.013Z",
+            "Days": 40,
+            "__indexed": "2020-08-21T17:32:59.013Z",
+            "__metadata": {
+                "etag": "\"7150\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)"
+            },
+            "__record_size": 24605,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.013Z",
+            "VehicleType": "Orb",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "Orb-1",
+            "EditorId": "14",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(182)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "c7d34aeb-a4f3-4944-b1ea-7aeefa8e5cbf",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2014-01-09T06:00:00Z",
+            "__source_field_concat": "0 182 0x01004FF058EAF98B1B4D8390B53E6C866C17 Orb-1 Orb N2 Nadir 0 False False False 1 True True 182 14 14 1.0 false c7d34aeb-a4f3-4944-b1ea-7aeefa8e5cbf Orb-1 Orb c7d34aeb-a4f3-4944-b1ea-7aeefa8e5cbf 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179013
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000441",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_key": "17262cf8-def3-4132-86ff-c780cafe6fc6",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "177",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.011Z",
+            "SyncStatus": "1",
+            "GUID": "17262cf8-def3-4132-86ff-c780cafe6fc6",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:08Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2013-08-09T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000441",
+            "__record_md5sum": "f1ccf07e7c502cc5f14ca5af8ec7c4bb",
+            "__record_size_wo_doccontent": 24647,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "177",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/File"
+                }
+            },
+            "UndockDate": "2013-09-04T07:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:22Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:08Z",
+            "__date_modified": "2018-01-04T20:35:22Z",
+            "logisticsData": { },
+            "__record_modified_date": "2020-08-21T17:32:59.011Z",
+            "Days": 32,
+            "__indexed": "2020-08-21T17:32:59.011Z",
+            "__metadata": {
+                "etag": "\"7147\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)"
+            },
+            "__record_size": 24647,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.011Z",
+            "VehicleType": "HTV",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "HTV4",
+            "EditorId": "14",
+            "Manifest": "HTV4: MBSU, UTA, STP-H4",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(177)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "17262cf8-def3-4132-86ff-c780cafe6fc6",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2013-08-03T05:00:00Z",
+            "__source_field_concat": "0 177 0x01004FF058EAF98B1B4D8390B53E6C866C17 HTV4 HTV N2 Nadir HTV4: MBSU, UTA, STP-H4 0 1 True True 177 14 14 1.0 false 17262cf8-def3-4132-86ff-c780cafe6fc6 HTV4 HTV HTV4: MBSU, UTA, STP-H4 17262cf8-def3-4132-86ff-c780cafe6fc6 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179011
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000440",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_key": "b8a00c4d-dda1-4352-8068-2876faa8af32",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "174",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.009Z",
+            "SyncStatus": "1",
+            "GUID": "b8a00c4d-dda1-4352-8068-2876faa8af32",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:08Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2009-09-18T00:47:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000440",
+            "__record_md5sum": "a5c6bc3055beb455bbcea0812a43d13e",
+            "__record_size_wo_doccontent": 24052,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "174",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/File"
+                }
+            },
+            "UndockDate": "2009-10-30T07:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:22Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:08Z",
+            "__date_modified": "2018-01-04T20:35:22Z",
+            "logisticsData": { },
+            "__record_modified_date": "2020-08-21T17:32:59.009Z",
+            "Days": 49,
+            "__indexed": "2020-08-21T17:32:59.009Z",
+            "__metadata": {
+                "etag": "\"7147\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)"
+            },
+            "__record_size": 24052,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.009Z",
+            "VehicleType": "HTV",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "HTV1",
+            "EditorId": "14",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(174)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "b8a00c4d-dda1-4352-8068-2876faa8af32",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2009-09-10T22:01:46Z",
+            "__source_field_concat": "0 174 0x01004FF058EAF98B1B4D8390B53E6C866C17 HTV1 HTV N2 Nadir 0 1 True True 174 14 14 1.0 false b8a00c4d-dda1-4352-8068-2876faa8af32 HTV1 HTV b8a00c4d-dda1-4352-8068-2876faa8af32 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179009
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000439",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "57b57c4f-6375-4024-9e7b-68d63800a103",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "173",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.007Z",
+            "ManifestNotes": "3-7",
+            "SyncStatus": "1",
+            "GUID": "57b57c4f-6375-4024-9e7b-68d63800a103",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:08Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2017-08-16T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000439",
+            "__record_md5sum": "f28057fc2ebb7a3fff99d09e701432a3",
+            "__record_size_wo_doccontent": 25368,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "173",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/File"
+                }
+            },
+            "UndockDate": "2017-09-17T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:22Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:08Z",
+            "__date_modified": "2018-01-04T20:35:22Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:59.007Z",
+            "Days": 34,
+            "__indexed": "2020-08-21T17:32:59.007Z",
+            "__metadata": {
+                "etag": "\"7161\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)"
+            },
+            "__record_size": 25368,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.007Z",
+            "VehicleType": "SpX",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "SpX-12",
+            "EditorId": "14",
+            "Manifest": "SpX-12: CREAM",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(173)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "57b57c4f-6375-4024-9e7b-68d63800a103",
+            "__manifest_notes": "3-7",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2017-08-14T05:00:00Z",
+            "__source_field_concat": "0 173 0x01004FF058EAF98B1B4D8390B53E6C866C17 SpX-12 SpX N2 Nadir SpX-12: CREAM 0 3-7 False False False 1 True True 173 14 14 1.0 false 57b57c4f-6375-4024-9e7b-68d63800a103 SpX-12 SpX SpX-12: CREAM 57b57c4f-6375-4024-9e7b-68d63800a103 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179007
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000438",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/ContentType"
+                }
+            },
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "a09a6584-d600-4d92-9065-eee91eba6d18",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "196",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:59.005Z",
+            "SyncStatus": "1",
+            "GUID": "a09a6584-d600-4d92-9065-eee91eba6d18",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:11Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2017-12-17T06:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000438",
+            "__record_md5sum": "d00a63f6c0e52dd80483fd6af6c3c7b7",
+            "__record_size_wo_doccontent": 25284,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "196",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/File"
+                }
+            },
+            "UndockDate": "2018-01-13T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:24Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:11Z",
+            "__date_modified": "2018-01-04T20:35:24Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:59.005Z",
+            "Days": 29,
+            "__indexed": "2020-08-21T17:32:59.005Z",
+            "__metadata": {
+                "etag": "\"7167\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)"
+            },
+            "__record_size": 25284,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.005Z",
+            "VehicleType": "SpX",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "SpX-13",
+            "EditorId": "14",
+            "Manifest": "SpX-13: ASIM, MISSE FF, TSIS",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(196)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "a09a6584-d600-4d92-9065-eee91eba6d18",
+            "FileSystemObjectType": "0",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2017-12-15T06:00:00Z",
+            "__source_field_concat": "0 196 0x01004FF058EAF98B1B4D8390B53E6C866C17 SpX-13 SpX N2 Nadir SpX-13: ASIM, MISSE FF, TSIS 0 True True True 1 True True 196 14 14 1.0 false a09a6584-d600-4d92-9065-eee91eba6d18 SpX-13 SpX SpX-13: ASIM, MISSE FF, TSIS a09a6584-d600-4d92-9065-eee91eba6d18 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179005
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000437",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/ContentType"
+                }
+            },
+            "LaunchNote": "Dec",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "4aa01973-7023-4f5a-a155-f9ebddc26051",
+            "__editor_id": "31",
+            "PortName": "N2 Zenith",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "11/2016",
+            "ID": "250",
+            "CrewSize": "4",
+            "Updated": "0",
+            "indexed": "2020-08-21T17:32:59.003Z",
+            "SyncStatus": "0",
+            "GUID": "4aa01973-7023-4f5a-a155-f9ebddc26051",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-07-11T17:56:40Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/FieldValuesForEdit"
+                }
+            },
+            "DepartingVehicle1": "USCV-8",
+            "DepartingVehicle2": "USCV-8",
+            "DepartingVehicle3": "USCV-8",
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/RoleAssignments"
+                }
+            },
+            "DepartingVehicle4": "USCV-8",
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2021-12-15T06:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000437",
+            "__record_md5sum": "135a6d39c81d2e2d56b9d8b38cbea636",
+            "__record_size_wo_doccontent": 28511,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "250",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/File"
+                }
+            },
+            "UndockDate": "2022-06-25T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Nationality4": "RSA",
+            "Modified": "2016-11-29T18:21:33Z",
+            "SingleCrewName4": "RS",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/Folder"
+                }
+            },
+            "Nationality2": "NASA",
+            "CrewPlacement1": "4",
+            "Nationality3": "NASA",
+            "CrewPlacement2": "5",
+            "Nationality1": "NASA",
+            "CrewPlacement3": "6",
+            "Created": "2016-07-11T17:56:40Z",
+            "CrewPlacement4": "7",
+            "__date_modified": "2016-11-29T18:21:33Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:59.003Z",
+            "Days": 192,
+            "__indexed": "2020-08-21T17:32:59.003Z",
+            "__metadata": {
+                "etag": "\"16\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)"
+            },
+            "__record_size": 28511,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "17",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.003Z",
+            "VehicleType": "USCV",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "USCV-8",
+            "EditorId": "31",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(250)/FieldValuesAsHtml"
+                }
+            },
+            "Color1": "C86464",
+            "__guid": "4aa01973-7023-4f5a-a155-f9ebddc26051",
+            "UndockNote": "Jun",
+            "FileSystemObjectType": "0",
+            "DockNote": "Dec",
+            "SingleCrewName1": "US",
+            "SingleCrewName2": "US",
+            "SingleCrewName3": "US",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "17",
+            "LaunchDate": "2021-12-15T06:00:00Z",
+            "__source_field_concat": "0 250 0x01004FF058EAF98B1B4D8390B53E6C866C17 USCV-8 USCV N2 Zenith 4 Dec Dec Jun C86464 4 US NASA USCV-8 5 US NASA USCV-8 6 US NASA USCV-8 7 RS RSA USCV-8 False False False 0 True True 250 17 31 1.0 false 4aa01973-7023-4f5a-a155-f9ebddc26051 USCV-8 USCV Dec Dec Jun 4aa01973-7023-4f5a-a155-f9ebddc26051 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179003
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000436",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/ContentType"
+                }
+            },
+            "LaunchNote": "Oct",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "e651c260-178d-410b-9842-b34f2cfbed93",
+            "__editor_id": "17",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "8/2016",
+            "ID": "247",
+            "CrewSize": "0",
+            "Updated": "0",
+            "indexed": "2020-08-21T17:32:59.000Z",
+            "SyncStatus": "0",
+            "GUID": "e651c260-178d-410b-9842-b34f2cfbed93",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-07-11T17:52:35Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2020-10-06T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000436",
+            "__record_md5sum": "328b627d47c3f528a4e43baadec84b92",
+            "__record_size_wo_doccontent": 25179,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "247",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/File"
+                }
+            },
+            "UndockDate": "2020-12-05T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2016-08-23T18:56:04Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/Folder"
+                }
+            },
+            "Created": "2016-07-11T17:52:35Z",
+            "__date_modified": "2016-08-23T18:56:04Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:59.000Z",
+            "Days": 60,
+            "__indexed": "2020-08-21T17:32:59.000Z",
+            "__metadata": {
+                "etag": "\"7\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)"
+            },
+            "__record_size": 25179,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "17",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:59.000Z",
+            "VehicleType": "CRS2",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "CRS2-5",
+            "EditorId": "17",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(247)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "e651c260-178d-410b-9842-b34f2cfbed93",
+            "UndockNote": "Dec",
+            "FileSystemObjectType": "0",
+            "DockNote": "Oct",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "17",
+            "LaunchDate": "2020-10-06T05:00:00Z",
+            "__source_field_concat": "0 247 0x01004FF058EAF98B1B4D8390B53E6C866C17 CRS2-5 CRS2 N2 Nadir 0 Oct Oct Dec False False False 0 True True 247 17 17 1.0 false e651c260-178d-410b-9842-b34f2cfbed93 CRS2-5 CRS2 Oct Oct Dec e651c260-178d-410b-9842-b34f2cfbed93 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031179000
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000435",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/ContentType"
+                }
+            },
+            "LaunchNote": "Jul",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "53ab42da-0499-4e60-bd54-00628ab36053",
+            "__editor_id": "17",
+            "PortName": "N1 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "8/2016",
+            "ID": "246",
+            "CrewSize": "0",
+            "Updated": "0",
+            "indexed": "2020-08-21T17:32:58.998Z",
+            "SyncStatus": "0",
+            "GUID": "53ab42da-0499-4e60-bd54-00628ab36053",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-07-11T17:51:57Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2020-07-25T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000435",
+            "__record_md5sum": "770c3ec3297e83e548e0ff7c7bfd072a",
+            "__record_size_wo_doccontent": 25179,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "246",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/File"
+                }
+            },
+            "UndockDate": "2020-09-23T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2016-08-23T18:56:04Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/Folder"
+                }
+            },
+            "Created": "2016-07-11T17:51:57Z",
+            "__date_modified": "2016-08-23T18:56:04Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:58.998Z",
+            "Days": 60,
+            "__indexed": "2020-08-21T17:32:58.998Z",
+            "__metadata": {
+                "etag": "\"6\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)"
+            },
+            "__record_size": 25179,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "17",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.998Z",
+            "VehicleType": "CRS2",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "CRS2-4",
+            "EditorId": "17",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(246)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "53ab42da-0499-4e60-bd54-00628ab36053",
+            "UndockNote": "Sep",
+            "FileSystemObjectType": "0",
+            "DockNote": "Jul",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "17",
+            "LaunchDate": "2020-07-25T05:00:00Z",
+            "__source_field_concat": "0 246 0x01004FF058EAF98B1B4D8390B53E6C866C17 CRS2-4 CRS2 N1 Nadir 0 Jul Jul Sep False False False 0 True True 246 17 17 1.0 false 53ab42da-0499-4e60-bd54-00628ab36053 CRS2-4 CRS2 Jul Jul Sep 53ab42da-0499-4e60-bd54-00628ab36053 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178998
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000434",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/ContentType"
+                }
+            },
+            "LaunchNote": "Apr",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "d896cfc7-269c-4df3-a078-27ef64ecf54a",
+            "__editor_id": "14",
+            "PortName": "N1 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "234",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:58.996Z",
+            "SyncStatus": "1",
+            "GUID": "d896cfc7-269c-4df3-a078-27ef64ecf54a",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-21T19:41:34Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2019-04-20T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000434",
+            "__record_md5sum": "7cbe38796d2515741a2ad547607ee0ea",
+            "__record_size_wo_doccontent": 25116,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "234",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/File"
+                }
+            },
+            "UndockDate": "2019-06-19T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:28Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/Folder"
+                }
+            },
+            "Created": "2016-06-21T19:41:34Z",
+            "__date_modified": "2018-01-04T20:35:28Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:58.996Z",
+            "Days": 63,
+            "__indexed": "2020-08-21T17:32:58.996Z",
+            "__metadata": {
+                "etag": "\"7049\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)"
+            },
+            "__record_size": 25116,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "17",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.996Z",
+            "VehicleType": "Orb",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "OA-11",
+            "EditorId": "14",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(234)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "d896cfc7-269c-4df3-a078-27ef64ecf54a",
+            "UndockNote": "Jun",
+            "FileSystemObjectType": "0",
+            "DockNote": "Apr",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "17",
+            "LaunchDate": "2019-04-17T05:00:00Z",
+            "__source_field_concat": "0 234 0x01004FF058EAF98B1B4D8390B53E6C866C17 OA-11 Orb N1 Nadir 0 Apr Apr Jun True True True 1 True True 234 17 14 1.0 false d896cfc7-269c-4df3-a078-27ef64ecf54a OA-11 Orb Apr Apr Jun d896cfc7-269c-4df3-a078-27ef64ecf54a 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178996
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000433",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/ContentType"
+                }
+            },
+            "LaunchNote": "Jul (TBD)",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "bf67072e-4200-421d-aa25-4a1e8581ce01",
+            "__editor_id": "14",
+            "PortName": "N2 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "230",
+            "CrewSize": "0",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:58.993Z",
+            "SyncStatus": "1",
+            "GUID": "bf67072e-4200-421d-aa25-4a1e8581ce01",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:16Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2019-07-17T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000433",
+            "__record_md5sum": "7505354d0668815bea0a6c705b85e6a0",
+            "__record_size_wo_doccontent": 26488,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "230",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/File"
+                }
+            },
+            "UndockDate": "2019-09-15T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2018-01-04T20:35:27Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/Folder"
+                }
+            },
+            "Created": "2016-06-09T16:33:16Z",
+            "__date_modified": "2018-01-04T20:35:27Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:58.993Z",
+            "Days": 67,
+            "__indexed": "2020-08-21T17:32:58.993Z",
+            "__metadata": {
+                "etag": "\"7157\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)"
+            },
+            "__record_size": 26488,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.993Z",
+            "VehicleType": "HTV",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "HTV8",
+            "EditorId": "14",
+            "Manifest": "HTV8: 6 x Li-Ion Batt + AP [direct mount]",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(230)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "bf67072e-4200-421d-aa25-4a1e8581ce01",
+            "UndockNote": "Sep (TBD)",
+            "FileSystemObjectType": "0",
+            "DockNote": "Jul (TBD)",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2019-07-10T05:00:00Z",
+            "__source_field_concat": "0 230 0x01004FF058EAF98B1B4D8390B53E6C866C17 HTV8 HTV N2 Nadir HTV8: 6 x Li-Ion Batt + AP [direct mount] 0 Jul (TBD) Jul (TBD) Sep (TBD) False False False 1 True True 230 14 14 1.0 false bf67072e-4200-421d-aa25-4a1e8581ce01 HTV8 HTV HTV8: 6 x Li-Ion Batt + AP [direct mount] Jul (TBD) Jul (TBD) Sep (TBD) bf67072e-4200-421d-aa25-4a1e8581ce01 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178993
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000432",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/ContentType"
+                }
+            },
+            "LaunchNote": "May",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "dddff0a1-2a56-492a-8d59-8343f7aff11c",
+            "__editor_id": "14",
+            "PortName": "N2 Zenith",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "228",
+            "CrewSize": "4",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:58.991Z",
+            "SyncStatus": "1",
+            "GUID": "dddff0a1-2a56-492a-8d59-8343f7aff11c",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:16Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/FieldValuesForEdit"
+                }
+            },
+            "DepartingVehicle1": "USCV-4",
+            "DepartingVehicle2": "USCV-4",
+            "DepartingVehicle3": "USCV-4",
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/RoleAssignments"
+                }
+            },
+            "DepartingVehicle4": "USCV-4",
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2020-05-18T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000432",
+            "__record_md5sum": "22f8d3f6c2b8667105c1259568d4c145",
+            "__record_size_wo_doccontent": 28525,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "228",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/File"
+                }
+            },
+            "UndockDate": "2020-11-30T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Nationality4": "NASA",
+            "Modified": "2018-01-04T20:35:27Z",
+            "SingleCrewName4": "RS",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/Folder"
+                }
+            },
+            "Nationality2": "NASA",
+            "CrewPlacement1": "11",
+            "Nationality3": "NASA",
+            "CrewPlacement2": "12",
+            "Nationality1": "NASA",
+            "CrewPlacement3": "13",
+            "Created": "2016-06-09T16:33:16Z",
+            "CrewPlacement4": "14",
+            "__date_modified": "2018-01-04T20:35:27Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:58.991Z",
+            "Days": 196,
+            "__indexed": "2020-08-21T17:32:58.991Z",
+            "__metadata": {
+                "etag": "\"7175\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)"
+            },
+            "__record_size": 28525,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.991Z",
+            "VehicleType": "USCV",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "CTS-2",
+            "EditorId": "14",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(228)/FieldValuesAsHtml"
+                }
+            },
+            "Color1": "C86464",
+            "__guid": "dddff0a1-2a56-492a-8d59-8343f7aff11c",
+            "UndockNote": "Nov",
+            "FileSystemObjectType": "0",
+            "DockNote": "May",
+            "SingleCrewName1": "US",
+            "SingleCrewName2": "US",
+            "SingleCrewName3": "US",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2020-05-18T05:00:00Z",
+            "__source_field_concat": "0 228 0x01004FF058EAF98B1B4D8390B53E6C866C17 CTS-2 USCV N2 Zenith 4 May May Nov C86464 11 US NASA USCV-4 12 US NASA USCV-4 13 US NASA USCV-4 14 RS NASA USCV-4 True True True 1 True True 228 14 14 1.0 false dddff0a1-2a56-492a-8d59-8343f7aff11c CTS-2 USCV May May Nov dddff0a1-2a56-492a-8d59-8343f7aff11c 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178991
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000431",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/ContentType"
+                }
+            },
+            "LaunchNote": "Sep",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "ccc1c837-5045-46ae-8de5-8632409204b0",
+            "__editor_id": "31",
+            "PortName": "MRM1 / FGB Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "9/2017",
+            "ID": "241",
+            "CrewSize": "3",
+            "Updated": "0",
+            "indexed": "2020-08-21T17:32:58.989Z",
+            "SyncStatus": "0",
+            "GUID": "ccc1c837-5045-46ae-8de5-8632409204b0",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-07-11T17:43:40Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/FieldValuesForEdit"
+                }
+            },
+            "DepartingVehicle1": "60Soyuz",
+            "DepartingVehicle2": "60Soyuz",
+            "DepartingVehicle3": "60Soyuz",
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2019-09-13T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000431",
+            "__record_md5sum": "9f3fbbf7a09e6625a7c1c7288f68e093",
+            "__record_size_wo_doccontent": 27846,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "241",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/File"
+                }
+            },
+            "UndockDate": "2020-02-28T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2017-09-27T19:07:16Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/Folder"
+                }
+            },
+            "Nationality2": "RSA",
+            "CrewPlacement1": "1",
+            "Nationality3": "NASA",
+            "CrewPlacement2": "2",
+            "Nationality1": "RSA",
+            "CrewPlacement3": "3",
+            "Created": "2016-07-11T17:43:40Z",
+            "__date_modified": "2017-09-27T19:07:16Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:58.989Z",
+            "Days": 168,
+            "__indexed": "2020-08-21T17:32:58.989Z",
+            "__metadata": {
+                "etag": "\"12\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)"
+            },
+            "__record_size": 27846,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "17",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.989Z",
+            "VehicleType": "Soyuz",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "60Soyuz",
+            "EditorId": "31",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(241)/FieldValuesAsHtml"
+                }
+            },
+            "Color1": "FF7B21",
+            "__guid": "ccc1c837-5045-46ae-8de5-8632409204b0",
+            "UndockNote": "Feb",
+            "FileSystemObjectType": "0",
+            "DockNote": "Sep",
+            "SingleCrewName1": "RS",
+            "SingleCrewName2": "RS",
+            "SingleCrewName3": "US",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "17",
+            "LaunchDate": "2019-09-13T05:00:00Z",
+            "__source_field_concat": "0 241 0x01004FF058EAF98B1B4D8390B53E6C866C17 60Soyuz Soyuz MRM1 / FGB Nadir 3 Sep Sep Feb FF7B21 1 RS RSA 60Soyuz 2 RS RSA 60Soyuz 3 US NASA 60Soyuz True True True 0 True True 241 17 31 1.0 false ccc1c837-5045-46ae-8de5-8632409204b0 60Soyuz Soyuz Sep Sep Feb ccc1c837-5045-46ae-8de5-8632409204b0 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178989
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000430",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/ContentType"
+                }
+            },
+            "LaunchNote": "Oct",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "27339515-f4f2-4cae-b40b-ce5a14167052",
+            "__editor_id": "31",
+            "PortName": "N1 Nadir",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "9/2017",
+            "ID": "239",
+            "CrewSize": "0",
+            "Updated": "0",
+            "indexed": "2020-08-21T17:32:58.987Z",
+            "SyncStatus": "0",
+            "GUID": "27339515-f4f2-4cae-b40b-ce5a14167052",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-07-11T17:34:52Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/FieldValuesForEdit"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/RoleAssignments"
+                }
+            },
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2019-10-01T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000430",
+            "__record_md5sum": "92c9d805df5153a49fa1354c5f7f57a4",
+            "__record_size_wo_doccontent": 25116,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "239",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/File"
+                }
+            },
+            "UndockDate": "2019-11-30T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Modified": "2017-09-27T19:27:31Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/Folder"
+                }
+            },
+            "Created": "2016-07-11T17:34:52Z",
+            "__date_modified": "2017-09-27T19:27:31Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:58.987Z",
+            "Days": 60,
+            "__indexed": "2020-08-21T17:32:58.987Z",
+            "__metadata": {
+                "etag": "\"8\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)"
+            },
+            "__record_size": 25116,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "17",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.987Z",
+            "VehicleType": "CRS2",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "OA-12",
+            "EditorId": "31",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(239)/FieldValuesAsHtml"
+                }
+            },
+            "__guid": "27339515-f4f2-4cae-b40b-ce5a14167052",
+            "UndockNote": "Nov",
+            "FileSystemObjectType": "0",
+            "DockNote": "Oct",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "17",
+            "LaunchDate": "2019-10-01T05:00:00Z",
+            "__source_field_concat": "0 239 0x01004FF058EAF98B1B4D8390B53E6C866C17 OA-12 CRS2 N1 Nadir 0 Oct Oct Nov True True True 0 True True 239 17 31 1.0 false 27339515-f4f2-4cae-b40b-ce5a14167052 OA-12 CRS2 Oct Oct Nov 27339515-f4f2-4cae-b40b-ce5a14167052 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178987
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000429",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/ContentType"
+                }
+            },
+            "LaunchNote": "Dec",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "False",
+            "LaunchRed": "False",
+            "__source_key": "9f10cfbd-b6af-4f0d-9ef8-d6403fca3d71",
+            "__editor_id": "31",
+            "PortName": "N2 Zenith",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "11/2016",
+            "ID": "237",
+            "CrewSize": "4",
+            "Updated": "0",
+            "indexed": "2020-08-21T17:32:58.984Z",
+            "SyncStatus": "0",
+            "GUID": "9f10cfbd-b6af-4f0d-9ef8-d6403fca3d71",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-07-11T17:32:18Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/FieldValuesForEdit"
+                }
+            },
+            "DepartingVehicle1": "USCV-6",
+            "DepartingVehicle2": "USCV-6",
+            "DepartingVehicle3": "USCV-6",
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/RoleAssignments"
+                }
+            },
+            "DepartingVehicle4": "USCV-6",
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2020-12-15T06:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000429",
+            "__record_md5sum": "49b29c2d79ddf10a3ea8f8e0ee0154f8",
+            "__record_size_wo_doccontent": 28511,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "237",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/File"
+                }
+            },
+            "UndockDate": "2021-06-25T05:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Nationality4": "RSA",
+            "Modified": "2016-11-29T18:19:35Z",
+            "SingleCrewName4": "RS",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/Folder"
+                }
+            },
+            "Nationality2": "NASA",
+            "CrewPlacement1": "4",
+            "Nationality3": "NASA",
+            "CrewPlacement2": "5",
+            "Nationality1": "NASA",
+            "CrewPlacement3": "6",
+            "Created": "2016-07-11T17:32:18Z",
+            "CrewPlacement4": "7",
+            "__date_modified": "2016-11-29T18:19:35Z",
+            "logisticsData": { },
+            "UnDockRed": "False",
+            "__record_modified_date": "2020-08-21T17:32:58.984Z",
+            "Days": 192,
+            "__indexed": "2020-08-21T17:32:58.984Z",
+            "__metadata": {
+                "etag": "\"13\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)"
+            },
+            "__record_size": 28511,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "17",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.984Z",
+            "VehicleType": "USCV",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "USCV-6",
+            "EditorId": "31",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(237)/FieldValuesAsHtml"
+                }
+            },
+            "Color1": "C86464",
+            "__guid": "9f10cfbd-b6af-4f0d-9ef8-d6403fca3d71",
+            "UndockNote": "Jun",
+            "FileSystemObjectType": "0",
+            "DockNote": "Dec",
+            "SingleCrewName1": "US",
+            "SingleCrewName2": "US",
+            "SingleCrewName3": "US",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "17",
+            "LaunchDate": "2020-12-15T06:00:00Z",
+            "__source_field_concat": "0 237 0x01004FF058EAF98B1B4D8390B53E6C866C17 USCV-6 USCV N2 Zenith 4 Dec Dec Jun C86464 4 US NASA USCV-6 5 US NASA USCV-6 6 US NASA USCV-6 7 RS RSA USCV-6 False False False 0 True True 237 17 31 1.0 false 9f10cfbd-b6af-4f0d-9ef8-d6403fca3d71 USCV-6 USCV Dec Dec Jun 9f10cfbd-b6af-4f0d-9ef8-d6403fca3d71 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178984
+            ]
+        },
+        {
+            "_index": "issflightplan",
+            "_type": "issflightplan",
+            "_key": "IDP-ISSFLIGHTPLAN-0000000000000428",
+            "_version": 1,
+            "_score": null,
+            "ContentType": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/ContentType"
+                }
+            },
+            "LaunchNote": "May",
+            "ContentTypeId": "0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "DockRed": "True",
+            "LaunchRed": "True",
+            "__source_key": "1d052462-58d5-411a-b52b-a3e998a3e3e2",
+            "__editor_id": "14",
+            "PortName": "N2 Fwd / PMA2",
+            "edi_owner": "ntcmerek",
+            "indexed_shortdate": "1/2018",
+            "ID": "218",
+            "CrewSize": "2",
+            "Updated": "1",
+            "indexed": "2020-08-21T17:32:58.982Z",
+            "SyncStatus": "1",
+            "GUID": "1d052462-58d5-411a-b52b-a3e998a3e3e2",
+            "__source_model_name": "issflightplan",
+            "__date_created": "2016-06-09T16:33:15Z",
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/FieldValuesForEdit"
+                }
+            },
+            "DepartingVehicle1": "USCV-2",
+            "DepartingVehicle2": "USCV-2",
+            "DepartingVehicle3": "USCV-2",
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/RoleAssignments"
+                }
+            },
+            "DepartingVehicle4": "USCV-2",
+            "ACL_MANAGE": [
+                "admin/Insight Admins"
+            ],
+            "ParentList": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/ParentList"
+                }
+            },
+            "__model_type": "issflightplan",
+            "DockDate": "2019-05-31T05:00:00Z",
+            "__dirid": "IDP-ISSFLIGHTPLAN-0000000000000428",
+            "__record_md5sum": "808f493de75c2bbd3417482e4741a005",
+            "__record_size_wo_doccontent": 27986,
+            "ACL_DENY": [
+                "DFDFF"
+            ],
+            "__update_method": "Bulk Load Data",
+            "Id": "218",
+            "File": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/File"
+                }
+            },
+            "UndockDate": "2019-11-18T06:00:00Z",
+            "OData__UIVersionString": "1.0",
+            "Nationality4": "NASA",
+            "Modified": "2018-01-04T20:35:26Z",
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/Folder"
+                }
+            },
+            "Nationality2": "NASA",
+            "CrewPlacement1": "7",
+            "CrewPlacement2": "8",
+            "Nationality1": "NASA",
+            "CrewPlacement3": "9",
+            "Created": "2016-06-09T16:33:15Z",
+            "CrewPlacement4": "10",
+            "__date_modified": "2018-01-04T20:35:26Z",
+            "logisticsData": { },
+            "UnDockRed": "True",
+            "__record_modified_date": "2020-08-21T17:32:58.982Z",
+            "Days": 171,
+            "__indexed": "2020-08-21T17:32:58.982Z",
+            "__metadata": {
+                "etag": "\"7180\"",
+                "id": "Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)",
+                "type": "SP.Data.FlightPlanDataListItem",
+                "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)"
+            },
+            "__record_size": 27986,
+            "__model_version": 23299,
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/FieldValuesAsText"
+                }
+            },
+            "AuthorId": "14",
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/AttachmentFiles"
+                }
+            },
+            "__date_indexed": "2020-08-21T17:32:58.982Z",
+            "VehicleType": "USCV",
+            "ACL_ALLOW": [
+                "anonymous"
+            ],
+            "Title": "CTS-1",
+            "EditorId": "14",
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "https://bi.sp.iss.nasa.gov/Sites/FP/_api/Web/Lists(guid'a9421c5b-186a-4b14-b7b2-4b88ee8fab95')/Items(218)/FieldValuesAsHtml"
+                }
+            },
+            "Color1": "C86464",
+            "__guid": "1d052462-58d5-411a-b52b-a3e998a3e3e2",
+            "UndockNote": "Nov",
+            "FileSystemObjectType": "0",
+            "DockNote": "May",
+            "SingleCrewName1": "US",
+            "SingleCrewName2": "US",
+            "__record_modified_user": "ntcmerek",
+            "__author_id": "14",
+            "LaunchDate": "2019-05-31T05:00:00Z",
+            "__source_field_concat": "0 218 0x01004FF058EAF98B1B4D8390B53E6C866C17 CTS-1 USCV N2 Fwd / PMA2 2 May May Nov C86464 7 US NASA USCV-2 8 US NASA USCV-2 9 USCV-2 10 NASA USCV-2 True True True 1 True True 218 14 14 1.0 false 1d052462-58d5-411a-b52b-a3e998a3e3e2 CTS-1 USCV May May Nov 1d052462-58d5-411a-b52b-a3e998a3e3e2 0x01004FF058EAF98B1B4D8390B53E6C866C17",
+            "__source_type": "Flights",
+            "sort": [
+                1598031178982
+            ]
+        }
+    ],
+    "aggregations": {
+        "issflightplan|VehicleType|count": {
+            "meta": {
+                "shard_min_doc_count": 0,
+                "field": "VehicleType.keyword",
+                "size": 2147483647,
+                "sortNumber": "100",
+                "show_term_doc_count_error": false,
+                "dataset": "issflightplan",
+                "min_doc_count": 1,
+                "aggSort": "N/A"
+            },
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Progress",
+                    "doc_count": 77
+                },
+                {
+                    "key": "Soyuz",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Shuttle",
+                    "doc_count": 37
+                },
+                {
+                    "key": "SpX",
+                    "doc_count": 21
+                },
+                {
+                    "key": "Orb",
+                    "doc_count": 13
+                },
+                {
+                    "key": "HTV",
+                    "doc_count": 9
+                },
+                {
+                    "key": "USCV",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Module",
+                    "doc_count": 7
+                },
+                {
+                    "key": "ATV",
+                    "doc_count": 5
+                },
+                {
+                    "key": "CRS2",
+                    "doc_count": 5
+                }
+            ]
+        },
+        "adminbaseobject|__model_type|count": {
+            "meta": {
+                "shard_min_doc_count": 0,
+                "field": "__model_type.keyword",
+                "size": 2147483647,
+                "sortNumber": "100",
+                "show_term_doc_count_error": false,
+                "dataset": "adminbaseobject",
+                "min_doc_count": 1,
+                "aggSort": "N/A"
+            },
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "issflightplan",
+                    "doc_count": 248
+                }
+            ]
+        },
+        "issflightplan|CrewSize|count": {
+            "meta": {
+                "shard_min_doc_count": 0,
+                "field": "CrewSize.keyword",
+                "size": 2147483647,
+                "sortNumber": "200",
+                "show_term_doc_count_error": false,
+                "dataset": "issflightplan",
+                "min_doc_count": 1,
+                "aggSort": "N/A"
+            },
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": 0,
+                    "doc_count": 160
+                },
+                {
+                    "key": 3,
+                    "doc_count": 63
+                },
+                {
+                    "key": 1,
+                    "doc_count": 12
+                },
+                {
+                    "key": 2,
+                    "doc_count": 7
+                },
+                {
+                    "key": 4,
+                    "doc_count": 6
+                }
+            ]
+        }
+    },
+    "suggest": {
+        "suggestion": [
+            {
+                "text": "*",
+                "offset": 0,
+                "length": 1,
+                "options": [ ]
+            }
+        ]
+    },
+    "total": 248
+
+}
+
