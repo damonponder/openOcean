@@ -1,0 +1,35 @@
+#flyoutMenuLeft {
+    width: 20vw;
+    height: 80vh;
+    background-color: #3498DB;
+    position: fixed;
+    top: 103px;
+    right: 0;
+    transition: transform .3s
+    cubic-bezier(0, .52, 0, 1);
+    overflow: scroll;
+    z-index: 1000;
+}
+
+#flyoutMenuLeft.hide {
+    transform: translate3d(-100vw, 0, 0);
+}
+
+#flyoutMenuLeft.show {
+    transform: translate3d(0vw, 0, 0);
+    overflow: hidden;
+}
+
+#flyoutMenuLeft h2 a {
+    color: #333;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+#flyoutMenuLeft h2 a:hover {
+    text-decoration: underline;
+}
+svg #menu-eye{
+    height: 2em;
+    width: 3em;
+}
